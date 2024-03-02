@@ -37,4 +37,4 @@
 gcc main.c -o USB_thief_nwin -lshlwapi -mwindows
 ```
 
-
+感谢ChatGPT对本项目的大力支持(
